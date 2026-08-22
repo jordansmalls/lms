@@ -1,0 +1,15 @@
+Complete and Submitted:
+Read The JS Way (3,2,1...Code through Write Functions)
+    Link: https://codepen.io/jay9999/pen/NWodwdR
+
+Read Eloquent JavaScript (Chapters 1-3)
+    Link: https://codepen.io/jay9999/pen/YzBNENo
+
+Do Codecademy: Intro to Javascript (1-6)
+    Link: https://ibb.co/8Mh4NWN
+
+Drafts
+
+Contract Draft: https://docs.google.com/document/d/1BfyPsw03bL_89qbOD8cXd_yqd-0wT1BE5-qx8gJvQaE/edit?usp=sharing
+
+Proposal Draft: https://docs.google.com/document/d/1fF5dJMIV-8vCS1p-cezJDxhvYeEIZ3s5RMn4E265sMs/edit?usp=sharing
