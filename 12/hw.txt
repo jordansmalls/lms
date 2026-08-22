@@ -1,0 +1,3 @@
+Changes to color picker: https://codepen.io/jay9999/pen/abQyGLx
+Ans for What day is it? HW: https://codepen.io/jay9999/pen/MWLedmE
+Javascript.info Ans: https://codepen.io/jay9999/pen/vYbKMGd
