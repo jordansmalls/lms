@@ -1,0 +1,94 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clear {
+clear: both;
+}
+
+
+
+
+
+html {
+  color: white;
+  background-color: black;
+}
+
+
+header, footer {
+  height: 200px;
+  border: 1px solid white;
+  float: left;
+  width: 100%;
+}
+
+
+.sections {
+  height: 600px;
+  border: 1px solid white;
+  width: 33.3333%;
+  float: left;
+}
+
+main {
+  width: 100%;
+}
+
+
+
+/* MEDIA QUERIES */
+
+/* MOBILE */
+@media only screen and (max-width: 677px){
+  .sections {
+    border: 1px solid red;
+    width: 100%;
+    height: 250px;
+  }
+  header, footer {
+    height: 100px;
+  }
+}
+
+
+/* IPAD/TABLET */
+@media only screen and (min-width: 678px){
+  #sectionOne, #sectionTwo {
+    width: 49.7%;
+    float: left;
+    height: 375px;
+  }
+  #sectionThree {
+    width: 100%;
+    float: left;
+    height: 250px;
+  }
+  .sections {
+    border: 1px solid green;
+  }
+}
+
+/* BROWSERS */
+@media only screen and (min-width: 1024px){
+  .sections {
+    border: 1px solid blue;
+    width: 33.3333%;
+    float: left;
+  }
+  #sectionTwo, #sectionThree, #sectionOne {
+    width: 33.1%;
+    height: 400px;
+  }
+}
