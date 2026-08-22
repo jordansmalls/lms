@@ -1,0 +1,4 @@
+Read Javascript.info: Function Expressions and do the tasks
+    no tasks for chapter
+Read Javascript.info: Arrow Function Basics and do the tasks
+    tasks: https://codepen.io/jay9999/pen/abXZrQP
