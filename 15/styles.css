@@ -1,0 +1,111 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+  }
+
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+
+  *{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  #title {
+    padding-top: 150px;
+    padding-bottom: 5px;
+  }
+
+  #form {
+    padding-bottom: 35px;
+  }
+
+  /******************************************
+  /* ADDITIONAL STYLES
+  /*******************************************/
+
+
+  html {
+    background: #28212e;
+    font-size: 10px;
+  }
+
+.small {
+  color: lightgrey;
+  font-weight: 200;
+  font-size: 2.5rem;
+}
+
+.medium {
+  color: white;
+  font-weight: 200;
+}
+
+.large{
+  color: white;
+  font-weight: 700;
+  font-size: 6.5rem;
+}
+
+input, form{
+  color: black;
+}
+
+button {
+  width: 25%;
+}
+
+a {
+  background-color: white;
+  font-size: 2em;
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+.ans {
+  color: white;
+  font-size: 5rem;
+}
+.ans:hover {
+  color: red;
+  font-size: 5rem;
+}
+a:hover {
+  background-color: black;
+  font-size: 2em;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 25px;
+}
+
+#firstName {
+  color: black;
+  font-size: 25px;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+
+.hidden {
+  display: none;
+}
+
+.showMe {
+  display:block;
+}
+
+
+.center {
+  padding: 400px 0 0 0;
+  text-align: center;
+}

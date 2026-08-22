@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="This is where your description goes">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Temperature Converter</title>
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+	</head>
+	<body>
+        <div>
+            <div id="title">
+                <h1 class="large">Celsius to Fahrenheit Converter</h1>
+                <p class="small">In the input below, enter your temperature in Celsius, then click the button to convert to Fahrenheit.<br>
+                If you would like to do another conversion, simply refresh the page!</p>
+            </div>
+            <div id="form">
+                <form action="text">
+                    <input class="small" type="text" id="firstName" placeholder="enter your temperature">
+                </form>
+            </div>
+            <div id="button">
+                <a href="#" id="yell" class="button yell test">Convert!</a>
+                <h2 class="ans" id="placeToYell"></h2>
+            </div>
+		<!-- <button name="Convert" id="yell">Convert</button> -->
+        <!-- <a href="#" id="yell" class="button">Convert!</a>
+		<h2 class="ans" id="placeToYell"></h2> -->
+    </div>
+    <!-- <p id="tip" class="hidden small">(refresh to convert again)</p> -->
+		<script type="text/javascript" src="js/main.js"></script>
+	</body>
+</html>
