@@ -1,0 +1,11 @@
+Find 3 APIs from the list and build three simple apps:
+- https://smilemore.netlify.app/
+- https://codepen.io/jay9999/pen/YzBYKro
+- https://codepen.io/jay9999/pen/ExrbJbW
+- https://cocktail-roulette-js.netlify.app/
+
+Make the Cocktail API work with spaces between the names:
+- https://codepen.io/jay9999/pen/ZEwxVaZ
+
+5 Codewars Solutions:
+- https://codepen.io/jay9999/pen/XWOzKZW
