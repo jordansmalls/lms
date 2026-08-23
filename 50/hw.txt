@@ -1,0 +1,2 @@
+comment code through app of binary-upload-boom:
+- https://github.com/100devs/binary-upload-boom/pull/805
