@@ -46,6 +46,7 @@
 
     - here's some SS's of my personal tool:
 
+    ![personal hitlisting tool](opportunities.png)
 
     ![personal hitlisting tool](dash.png)
 
@@ -55,7 +56,6 @@
 
     ![personal hitlisting tool](hitlistentry.png)
 
-    ![personal hitlisting tool](opportunities.png)
 
     ![personal hitlisting tool](templates.png)
 
