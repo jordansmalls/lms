@@ -42,9 +42,24 @@
 
 ## General Notes & Suggestions
 
-- Could implement a hitlisting platform into the LMS (though this strays from the goal of creating the best learning tool closer to being an one stop shop for the 100devs course)
+- Could implement a hitlisting platform into the LMS (though this strays from the goal of creating the best learning tool closer to being an one stop shop for the 100devs course) - if interested i can share my code
 
-    - here's a SS of my personal tool:![personal hitlisting tool](ss.png)
+    - here's some SS's of my personal tool:
+
+
+    ![personal hitlisting tool](dash.png)
+
+
+    ![personal hitlisting tool](contacts.png)
+
+
+    ![personal hitlisting tool](hitlistentry.png)
+
+    ![personal hitlisting tool](opportunities.png)
+
+    ![personal hitlisting tool](templates.png)
+
+    ![personal hitlisting tool](ss.png)
 
 - Quiz sections for Checking Understanding – may want to change "Last attempt" to "Previous attempt" to avoid possible confusion on whether or not it's a user's last attempt at the quiz versus what they previously scored on the quiz.
 
